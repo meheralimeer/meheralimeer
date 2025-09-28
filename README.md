@@ -1,14 +1,11 @@
 # 👋 Hey, I’m Meher Ali  
 
-> 🚀 CS Student • 💻 Java & Android Dev • 🌱 Learning AI/ML  
+> 🚀 CS Student • 💻 Full Stack Web & Android Dev • 🌱 Learning AI/ML  
 
 ---
 
 ### ⚡ Quick Intro  
-- 🎓 4th sem **BSCS** @ COMSATS  
-- 📱 Building **SemesterSnap** (Kotlin + Jetpack Compose)  
-- 🤖 Part of **GDG AI/ML Fellowship**  
-- 🔧 Currently leveling up in **Flutter & Full-Stack**  
+- 🎓 5th sem **BSCS** @ COMSATS  
 - 🎶 Code, coffee, repeat (sometimes chai ☕)  
 
 ---
@@ -34,8 +31,8 @@
 
 ### 🔗 Let’s Connect  
 🌐 [GitHub](https://github.com/meheralimeer) •  
-💼 [LinkedIn](https://linkedin.com/in/your-link) •  
-📧 your_email@example.com  
+💼 [LinkedIn](https://linkedin.com/in/meheralimeer) •  
+📧 meherali.meer@gmail.com  
 
 ---
 
